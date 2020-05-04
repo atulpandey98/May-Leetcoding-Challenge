@@ -1,4 +1,5 @@
 // First Bad Version
+// Standard Binary search
 
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {

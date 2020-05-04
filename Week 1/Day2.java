@@ -1,4 +1,8 @@
 // Jewels and Stones
+// Solution -   Find the frequency of all the characters in stones string.
+//              Traverse through jewels and add the frequency of common characters in the result variable.
+// Time Complexity - O(n1 + n2), where n1 is length of jewel string and n2 is length of stones string.
+// Space Complexity - O(1). Frequency array is of size 26 which is fixed and does not depend on the value of n.
 
 class Solution {
     public int numJewelsInStones(String J, String S) {
