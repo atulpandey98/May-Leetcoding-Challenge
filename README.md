@@ -10,4 +10,4 @@ These are the collection of 31 solutions to questions done during LeetCode May 3
 .<br/>
 .<br/>
 .<br/>
-Language Used : Java.<br/>
+Language Used : Java and C++<br/>
