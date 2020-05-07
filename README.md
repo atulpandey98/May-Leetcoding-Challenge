@@ -1,6 +1,6 @@
 # LeetCode-May-31DaysChallenge
 
-![leetcode](/images.jpeg)
+![leetcode](/leetcode.jpeg)
 
 .<br/>
 .<br/>
