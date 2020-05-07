@@ -5,7 +5,7 @@
 .<br/>
 .<br/>
 .<br/>
-These are the collection of 31 solutions to questions done during LeetCode May 30 days challenge in 2020.<br/>
+These are the collection of 31 solutions to questions done during LeetCode May challenge in 2020.<br/>
 .<br/>
 .<br/>
 .<br/>
