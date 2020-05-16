@@ -23,8 +23,6 @@ class Solution {
         if(maxSum > 0) {
             return Math.max(maxSum, totalSum - minSum);
         }
-        return maxSum;              // If all are negative
-        
-        
+        return maxSum;              // If all are negative                
     }
 }
