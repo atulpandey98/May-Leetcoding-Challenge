@@ -1,4 +1,4 @@
-// Remove k digits
+// Remove k digits  
 // Insert the character into stack only of it is greater than or equal to the top element.
 // If it is smaller, pop the elements from the and find its correct position.
 
