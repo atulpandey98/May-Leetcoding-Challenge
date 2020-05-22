@@ -1,5 +1,5 @@
 // Valid perfect square
-// Time complexity - O(1)
+// Time complexity - O(1)  
 
 class Solution {
     public boolean isPerfectSquare(int num) {
