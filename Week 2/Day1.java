@@ -2,6 +2,7 @@
 // Find slope from first 2 points, and then traverse through the array of coordinates.
 // If any two point's slope is not equal to required slope, return false, else return true.
 // Time complexity - O(n), only one traversal of the array.
+
 class Solution {
     public boolean checkStraightLine(int[][] coordinates) {
         double slope = calculateSlope(coordinates[0][0], coordinates[0][1], coordinates[1][0],                                        coordinates[1][1]);
