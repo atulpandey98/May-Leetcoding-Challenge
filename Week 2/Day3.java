@@ -1,5 +1,5 @@
 // Find the town judge.
-// Time complexity - O(n ^ 2)
+// Time complexity - O(n ^ 2) 
 
 class Solution {
     public int findJudge(int N, int[][] trust) {
