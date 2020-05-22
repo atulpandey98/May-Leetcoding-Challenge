@@ -12,13 +12,12 @@ class Trie {
         boolean isLeaf;
         
     }
-    
-    /** Initialize your data structure here. */
+        
     public Trie() {
         root = new TrieNode();
     }
     
-    /** Inserts a word into the trie. */
+    // Inserts a word into the trie.
     public void insert(String word) {
         int level; 
         int length = word.length(); 
@@ -39,7 +38,7 @@ class Trie {
         pCrawl.isLeaf = true; 
     }
     
-    /** Returns if the word is in the trie. */
+    // Returns if the word is in the trie.
     public boolean search(String word) {
         int level; 
         int length = word.length(); 
@@ -59,7 +58,7 @@ class Trie {
         return pCrawl.isLeaf; 
     }
     
-    /** Returns if there is any word in the trie that starts with the given prefix. */
+    // Returns if there is any word in the trie that starts with the given prefix. 
     public boolean startsWith(String prefix) {
         int level; 
         int length = prefix.length(); 
